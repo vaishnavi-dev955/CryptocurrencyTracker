@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.Black-background {
+  background-color: #000000;
+  height: 120vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

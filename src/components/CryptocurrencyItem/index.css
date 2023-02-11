@@ -1,0 +1,28 @@
+/* Write your CSS code here */
+.currency-style {
+  height: 50px;
+  width: 50px;
+  padding-top: 10px;
+  padding-left: 5px;
+}
+
+.paragraph {
+  color: #ffffff;
+  font-size: 18px;
+  font-family: 'Roboto';
+  padding-left: 30px;
+}
+
+.Horizon-container1 {
+  display: flex;
+}
+
+.Horizon-container2 {
+  display: flex;
+}
+
+.Item-container {
+  background-color: transparent;
+  display: flex;
+  justify-content: space-around;
+}
